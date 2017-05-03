@@ -1,7 +1,7 @@
 {
-  "name": "egg-init",
-  "version": "1.8.1",
-  "description": "Init egg app helper tools.",
+  "name": "flclover-init",
+  "version": "0.0.3",
+  "description": "Init flclover app helper tools.",
   "main": "lib/init_command.js",
   "scripts": {
     "lint": "eslint bin lib test",
@@ -12,7 +12,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "egg-init": "bin/egg-init.js"
+    "flclover-init": "bin/egg-init.js"
   },
   "files": [
     "bin",
@@ -51,9 +51,9 @@
   "homepage": "https://github.com/eggjs/egg-init",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eggjs/egg-init.git"
+    "url": "https://github.com/flcloverjs/flclover-init.git"
   },
-  "bugs": "https://github.com/eggjs/egg/issues",
+  "bugs": "https://github.com/flcloverjs/flclover/issues",
   "keywords": [
     "egg",
     "egg-init"
