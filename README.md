@@ -8,20 +8,20 @@ flclover-init
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg-init.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-init
-[travis-image]: https://img.shields.io/travis/eggjs/egg-init.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-init
-[codecov-image]: https://codecov.io/gh/eggjs/egg-init/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/eggjs/egg-init
-[david-image]: https://img.shields.io/david/eggjs/egg-init.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-init
-[snyk-image]: https://snyk.io/test/npm/egg-init/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/egg-init
-[download-image]: https://img.shields.io/npm/dm/egg-init.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg-init
+[npm-image]: https://img.shields.io/npm/v/flclover-init.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/flclover-init
+[travis-image]: https://img.shields.io/travis/flcloverjs/flclover-init.svg?style=flat-square
+[travis-url]: https://travis-ci.org/flcloverjs/flclover-init
+[codecov-image]: https://codecov.io/gh/flcloverjs/flclover-init/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/flcloverjs/flclover-init
+[david-image]: https://img.shields.io/david/flcloverjs/flclover-init.svg?style=flat-square
+[david-url]: https://david-dm.org/eggjs/flclover-init
+[snyk-image]: https://snyk.io/test/npm/flclover-init/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/flclover-init
+[download-image]: https://img.shields.io/npm/dm/flclover-init.svg?style=flat-square
+[download-url]: https://npmjs.org/package/flclover-init
 
-Init egg app helper tools.
+Init flclover app helper tools.
 
 ## Install
 
@@ -48,7 +48,7 @@ $ flclover-init dest
 ## Command
 
 ```
-Usage: egg-init [dir] --type=simple
+Usage: flclover-init [dir] --type=simple
 
 Options:
   --type          boilerplate type                                                [string]
