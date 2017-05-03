@@ -1,4 +1,4 @@
-egg-init
+flclover-init
 =======
 
 [![NPM version][npm-image]][npm-url]
@@ -26,20 +26,20 @@ Init egg app helper tools.
 ## Install
 
 ```bash
-$ npm i egg-init -g
-$ egg-init -h
+$ npm i flclover-init -g
+$ flclover-init -h
 ```
 
 ## Create a `simple` type application
 
 ```bash
-$ egg-init --type simple [dest]
+$ flclover-init --type simple [dest]
 ```
 
 ## Or select a boilerplate by yourself
 
 ```bash
-$ egg-init dest
+$ flclover-init dest
 ? Please select a boilerplate type (Use arrow keys)
 ❯ simple - Simple egg app
   plugin - egg plugin

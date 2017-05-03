@@ -1,6 +1,6 @@
 {
   "name": "flclover-init",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Init flclover app helper tools.",
   "main": "lib/init_command.js",
   "scripts": {
